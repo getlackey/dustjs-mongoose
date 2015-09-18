@@ -1,0 +1,60 @@
+{
+  "name": "lackey-dustjs-mongoose",
+  "version": "0.1.0",
+  "description": "Mongoose dustjs helper",
+  "main": "lib/mongoose.js",
+  "dependencies": {
+    "config": "^1.16.0",
+    "request": "^2.62.0"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-config-dir": "^0.3.2",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-jslint": "^1.1.12"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/getlackey/dustjs-mongoose.git"
+  },
+  "author": {
+    "name": "Enigma Marketing",
+    "email": "admin@enigma-marketing.co.uk",
+    "url": "http://www.enigma-marketing.co.uk"
+  },
+ "licenses": [
+    {
+      "type": "Apache 2.0",
+      "url": "http://www.apache.org/licenses/LICENSE-2.0"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/getlackey/dustjs-mongoose/issues"
+  },
+  "homepage": "https://github.com/getlackey/dustjs-mongoose",
+  "maintainers": [
+    {
+      "name": "relvao",
+      "email": "relvao@gmail.com"
+    },
+    {
+      "name": "melono6",
+      "email": "jason@enigma-marketing.co.uk"
+    },
+    {
+      "name": "robmccardle",
+      "email": "robmccardle@yahoo.co.uk"
+    },
+    {
+      "name": "chapmanio",
+      "email": "rcchapman85@gmail.com"
+    },
+    {
+      "name": "enigma-marketing",
+      "email": "admin@enigma-marketing.co.uk"
+    }
+  ]
+}
