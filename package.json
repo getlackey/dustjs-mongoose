@@ -1,6 +1,6 @@
 {
   "name": "lackey-dustjs-mongoose",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Mongoose dustjs helper",
   "main": "lib/mongoose.js",
   "dependencies": {
@@ -25,7 +25,7 @@
     "email": "admin@enigma-marketing.co.uk",
     "url": "http://www.enigma-marketing.co.uk"
   },
- "licenses": [
+  "licenses": [
     {
       "type": "Apache 2.0",
       "url": "http://www.apache.org/licenses/LICENSE-2.0"
