@@ -10,13 +10,6 @@ This is an early release of this helpers and they haven't been tested outside ou
 
 	var dustjs = require('dustjs-linkedin'),
         dustjs.helpers = require('dustjs-helpers').helpers, // optional, but a good idea
-        helpers = {
-            mongoose: require('lackey-dustjs-mongoose');
-        };
+        lackey-dustjs-mongoose = require('lackey-dustjs-mongoose');
 
-    helpers.registerAll(dustjs);
-
-Or, if you want to register specific ones:
-    
-    helpers.var(dustjs);
-    helpers.options(dustjs);
+    lackey-dustjs-mongoose(dustjs);
